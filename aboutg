@@ -22,3 +22,7 @@ git commit -m “ชื่อไฟล์”
 git push 
 git push setupตามที่แนะนำ
 git pull
+การ merge
+git checkout
+git merge branchที่เราอยู่ branchที่เราต้องการนำมารวม
+git push
